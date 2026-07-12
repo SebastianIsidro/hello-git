@@ -1,2 +1,2 @@
-print("Login Page")
+print("Login")
 print("Last Version")
