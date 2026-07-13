@@ -1,1 +1,3 @@
-# hello-git
+# Hello Git & GitHub
+
+Aprendizaje en proceso...
